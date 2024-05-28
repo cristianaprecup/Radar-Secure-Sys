@@ -10,10 +10,10 @@ Before installing this, please make sure that you have installed:
 To successfully run this rust application, you have to follow these steps:
 
 1. Clone the repository
-`git clone https://github.com/UPB-FILS-MA/project-cristianaprecup`
+`git clone https://github.com/cristianaprecup/Radar-Secure-Sys.git`
 
 2. Change directory to the project
-`cd project-cristianaprecup`
+`cd RadarSecureSys`
 
 3. Change WiFi credentials (please see `src/main.rs:212`)
 ![image](https://github.com/UPB-FILS-MA/project-cristianaprecup/assets/121363102/82f28911-df68-4ef9-8dcd-925e8962590d)
